@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.each-list-item {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: 120px;
+  width: 420px;
+  padding: 10px;
+  margin-bottom: 17px;
+  border-radius: 3px;
+  box-shadow: 0px 4px 16px 0px #e5e5e5;
+}
+
+.cross {
+  height: 20px;
+  width: 20px;
+}
